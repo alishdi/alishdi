@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a web Developer and software engineer from Kurdistan
+I am a web Developer In Tehran
 
  A little more about me...
 const AliShahidi = {     
