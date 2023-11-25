@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**alishdi/alishdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a web Developer and software engineer from Kurdistan
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ A little more about me...
+const AliShahidi = {     
+    pronouns: "He" | "Him",     
+    aboutMe: "I'm Node.js Developer"
+    language: ["javaScript", "typeScript"] // Node.js,         
+    myStack: {             
+        backEnd: {             
+          frameworks: ["Express.js"],                   
+          microServiceTools: ["gRPC", "RabbitMQ"],
+          realTimeTools: ["socket.io", "webSocket"],
+          DataBases: ["MongoDB", "MySQL", "Redis", "ElasticSearch"],
+          architectures: ["MVC", "onion"],
+          API: ["postman", "insomnia", "swagger", "openAPI"],
+          
+        },         
+        frontEnd: {             
+          web: ["i'm not front-end developer 😁😁😁", "My friends call me a bug fixer 😂"],         
+        },         
+        devOps: ["Docker🐳"],               
+   },    
+   currentFocus: "Node.js Web Development",     
+   funFact: "Bug's and Errors are my best friends" 
+};
