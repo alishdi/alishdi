@@ -1,6 +1,6 @@
  <h2 align="center">
   <img style="width:75px;" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" />
-   Hi there 👋 ! I`m Dariush Khazaei &nbsp; ✌
+   Hi there 👋 ! I`m Ali Shahidi &nbsp; ✌
   <img style="width:75px;" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" />
 </h2>
 
@@ -8,33 +8,34 @@
 <h2 align="center">
   💻 &nbsp; About Me
 </h2>
-<div align="center">
-  <img style="width:250px;" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" />
-  <img style="width:250px;" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" />
-</div>
+
 </div>
 
 ```json
  {
-  "first_name" : "Dariush",
-  "last_name" : "Khazaei",
-  "username" : "DariushJinx",
+  "first_name" : "Ali",
+  "last_name" : "Shahidi",
+  "username" : "Alishdi",
   "gender" : "male",
   "aboutMe": "I'm Node.js Developer"
   "stach" : "Backend Developer",
-  "language": ["javaScript", "typeScript","Node.js"]
+  "language": ["javaScript", "typeScript"],
+  "RunTime":["Node.js"],
   "myStack": {            
         "BackEnd": {            
           "frameworks": ["Express.js", "Familiar with fastify"],                  
-          "microServiceTools": ["RabbitMQ"],
+          "microServiceTools": ["RabbitMQ","grpc"],
           "realTimeTools": ["socket.io", "webSocket"],
-          "DataBases": ["MongoDB"],
+          "DataBases": ["MongoDB","mySql","Elastic-search","redis"],
           "API": ["postman", "swagger"],
          
         },    
   "familiar with" : "FrontEnd",
   "currentFocus": "Node.js Web Development",    
-   "funFact": "Bug's and Errors are my best friends"
+   "funFact": "Bug's and Errors are my best friends",
+   "fact":"in the past ima frontend developer"
+
+
 }
 ```
 
