@@ -97,6 +97,6 @@
 
 | General      | Most Used Languages |
 | ----------- | ----------- |
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DariushJinx&show_icons=true&theme=highcontrast)      | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DariushJinx&size_weight=0.5&count_weight=.5)       |
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alishdi&show_icons=true&theme=highcontrast)      | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alishdi&size_weight=0.5&count_weight=.5)       |
 
 ##
